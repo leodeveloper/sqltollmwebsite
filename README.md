@@ -1,4 +1,4 @@
-# SQL to LLM Migration with ChromaDB
+# SQL to Large langugae Model Migration with ChromaDB
 
 This repository contains resources and documentation for migrating SQL databases to Large Language Models (LLM) using ChromaDB.
 
